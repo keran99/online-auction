@@ -12,8 +12,7 @@ Once done this step, navigate to the src directory, and just run it. On Eclipse 
 
 Click it and you're ready to go!
 
-**Authors:**
-
+**Authors:** </br>
 Keran Jegasothy </br>
 Jason Shuyinta </br>
 Tulak Mozammel
