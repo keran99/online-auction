@@ -1,4 +1,4 @@
-# OnlineAuction (University of Bologna, IT)
+# OnlineAuction (University of Bologna, IT for management)
 
 GWT based project using MapDB as a persistent db
 
@@ -13,10 +13,6 @@ Once done this step, navigate to the src directory, and just run it. On Eclipse 
 Click it and you're ready to go!
 
 **Authors:**
-
-Jason Shuyinta
-
-Keran Jegasothy 
-
+Keran Jegasothy </br>
+Jason Shuyinta </br>
 Tulak Mozammel
-
